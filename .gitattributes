@@ -1,1 +1,2 @@
 nexus-iq-cli-2.11.2-02.jar filter=lfs diff=lfs merge=lfs -text
+nexus-iq-cli-2.11.2-03.jar filter=lfs diff=lfs merge=lfs -text
